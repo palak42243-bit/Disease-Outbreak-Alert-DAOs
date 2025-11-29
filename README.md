@@ -40,3 +40,4 @@ To build a **transparent, community-driven alert system** that empowers people t
    git clone https://github.com/yourusername/Disease-Outbreak-Alert-DAOs.git
    cd Disease-Outbreak-Alert-DAOs
 Contract Address:0x50149bF9208A3995471E196FbdFB97A778a1f282
+<img width="1702" height="305" alt="Disease Outbreak Alert DAOs" src="https://github.com/user-attachments/assets/d55c27c6-d055-460a-87a7-71c883389e18" />
